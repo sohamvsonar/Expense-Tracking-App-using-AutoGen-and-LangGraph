@@ -31,13 +31,13 @@ The application models a collaborative team environment where agents handle task
   - `autogen`
   - `langchain`
   - `openai`
-  - Any other dependencies specified in the `requirements.txt` (if available).
+  - `pyautogen`
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Expense-Tracking-App-using-AutoGen-and-LangGraph.git
+   git clone https://github.com/sohamvsonar/Expense-Tracking-App-using-AutoGen-and-LangGraph.git
    ```
 
 2. Install dependencies
