@@ -85,5 +85,5 @@ The notebook guides you through the process of defining agents, running simulati
 Special thanks to OpenAI, AutoGen, and LangGraph/LangChain communities for their incredible tools and support.
 
 ---
-Feel free to reach out with any questions or feedback. Contributions are welcome!
+Feel free to reach out with any questions or feedback @soham.sonar427@gmail.com. Contributions are welcome!
 
