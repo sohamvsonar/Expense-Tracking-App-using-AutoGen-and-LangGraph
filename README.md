@@ -64,7 +64,8 @@ The notebook guides you through the process of defining agents, running simulati
 
 ## Structure
 
-- **Expense_Tracking_App_using_Autogens_Langgraph.ipynb**: Main notebook for setting up and running the project.
+- **Expense_Tracking_App_using_Autogens_Langgraph.ipynb**: Main notebook for setting up and running the project using the waterfall model.
+- **Expense_Tracking_App_using_Agile_Scrum**: Notebook for running the project using Agile scrum methodology.
 - **OAI_CONFIG.json**: Configuration file for OpenAI API.
 
 ## Features in Action
