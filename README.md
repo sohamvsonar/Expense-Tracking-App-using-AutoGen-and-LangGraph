@@ -32,6 +32,7 @@ The application models a collaborative team environment where agents handle task
   - `langchain`
   - `openai`
   - `pyautogen`
+  - `langgraph`
 
 ## Installation
 
